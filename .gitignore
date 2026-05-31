@@ -1,0 +1,16 @@
+# model files
+*.keras
+*.h5
+*.pkl
+
+# datasets
+PlantVillageDataset/
+Plant_village/
+*.jpg
+*.jpeg
+*.png
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
